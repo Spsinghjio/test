@@ -1,1 +1,2 @@
 *ksjf.txt
+*.log
