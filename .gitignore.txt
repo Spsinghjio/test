@@ -1,2 +1,0 @@
-*ksjf.txt
-*.log
