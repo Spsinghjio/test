@@ -1,1 +1,1 @@
-*.txt
+ksjf.txt
